@@ -14,5 +14,5 @@ COPY . .
 # Exponer puerto de la aplicación
 EXPOSE 3000
 
-# Comando de inicio
+# Comando de inicio1
 CMD ["node", "app.js"]
